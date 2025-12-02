@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 ```
-terraform-aws-ec2/
+terraform-project1/
 │
 ├── README.md                    # This file
 ├── .gitignore                   # Git ignore file
