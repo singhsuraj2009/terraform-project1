@@ -1,0 +1,6 @@
+aws_region    = "us-east-1"
+key_name      = "workstation-key"
+sg_name       = "allow-ssh"
+instance_type = "t3.micro"
+ami_id        = "ami-0ecb62995f68bb549"
+instance_name = "Workstation"
